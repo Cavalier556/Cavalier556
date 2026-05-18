@@ -1,16 +1,15 @@
-## Hi there 👋
+---
 
-<!--
-**Cavalier556/Cavalier556** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Páginas Web que he desarrollado
+- **[Kontrolli](https://www.kontrolli.org/)** — Studio de Pilates
+- **[El Mordisco](https://web-elmordisco.vercel.app/)** — Cevicheria El Mordisco
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías con las que trabajo
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | JavaScript (ES6+), TypeScript, Astro, HTML5, CSS3, Tailwind CSS, HTMX |
+| **Backend** | Python, Node.js, Django, FastAPI, Express |
+| **Databases** | PostgreSQL, SQLite |
+
+---

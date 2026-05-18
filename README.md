@@ -4,7 +4,7 @@
 
 
 ## Tecnologías con las que trabajo
-| Categoria | Tecnologías |
+| Categoría | Tecnologías |
 | :--- | :--- |
 | **Frontend** | JavaScript (ES6+), TypeScript, Astro, HTML5, CSS3, Tailwind CSS, HTMX |
 | **Backend** | Python, Node.js, Django, FastAPI, Express |
